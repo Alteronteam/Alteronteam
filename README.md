@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to program Arduino °-°
 - 💡I’m looking to collaborate on the design part of things
 - 
-you feel something. you are filled with determination
 
 print('you saw an beginer, you are filled with DETERMINATION')
 <!---
