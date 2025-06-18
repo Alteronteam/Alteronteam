@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Alteronteam
+- 👋 Hi, I’m @Felipe Lou
 - 🔧I’m making an game
-- 🌱 I’m currently learning how to program Arduino °-°
-- 💡I’m looking to collaborate on the design part of things
+- 🌱 I’m currently learning how to program GD Script 
 - 
 
 print('you saw an beginer, you are filled with DETERMINATION')
